@@ -1,0 +1,2 @@
+# ai
+study for ai
